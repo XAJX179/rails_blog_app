@@ -1,0 +1,19 @@
+current directory: /home/xajx/Desktop/vsc/top/Ruby_On_Rails/blog/vendor/bundle/ruby/3.3.0/gems/erb-5.0.3/ext/erb/escape
+/home/xajx/.rbenv/versions/3.3.5/bin/ruby extconf.rb
+checking for rb_ext_ractor_safe() in ruby.h... yes
+creating Makefile
+
+current directory: /home/xajx/Desktop/vsc/top/Ruby_On_Rails/blog/vendor/bundle/ruby/3.3.0/gems/erb-5.0.3/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20251010-7099-oo6orc sitelibdir\=./.gem.20251010-7099-oo6orc clean
+
+current directory: /home/xajx/Desktop/vsc/top/Ruby_On_Rails/blog/vendor/bundle/ruby/3.3.0/gems/erb-5.0.3/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20251010-7099-oo6orc sitelibdir\=./.gem.20251010-7099-oo6orc
+compiling escape.c
+linking shared-object erb/escape.so
+
+current directory: /home/xajx/Desktop/vsc/top/Ruby_On_Rails/blog/vendor/bundle/ruby/3.3.0/gems/erb-5.0.3/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20251010-7099-oo6orc sitelibdir\=./.gem.20251010-7099-oo6orc install
+/usr/bin/install -c -m 0755 escape.so ./.gem.20251010-7099-oo6orc/erb
+
+current directory: /home/xajx/Desktop/vsc/top/Ruby_On_Rails/blog/vendor/bundle/ruby/3.3.0/gems/erb-5.0.3/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20251010-7099-oo6orc sitelibdir\=./.gem.20251010-7099-oo6orc clean
